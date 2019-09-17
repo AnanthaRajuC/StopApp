@@ -23,6 +23,9 @@ public class StopAppApplication implements CommandLineRunner
 		System.out.println("Start Application"); 	
 		
 		//my business logic/code
+		System.out.println("Executing my business logic!"); 	
+		
+		System.out.println("calling application shutdown method."); 	
 		
 		initiateShutdown(0);
 	}
