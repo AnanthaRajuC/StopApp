@@ -6,6 +6,12 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 
+/**
+ * StopApp Application
+ *
+ * @author <a href="mailto:arcswdev@gmail.com">Anantha Raju C</a>
+ *
+ */
 @SpringBootApplication
 public class StopAppApplication implements CommandLineRunner 
 {

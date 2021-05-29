@@ -43,3 +43,14 @@ public class StopAppApplication implements CommandLineRunner
 ```
 
 Reference - https://stackoverflow.com/a/34946292/3711562
+
+## License
+
+Distributed under the MIT License. See [LICENSE.MD](/LICENSE.MD) for more information.
+
+<!-- CONTACT -->
+## Contact
+
+Anantha Raju C - [@anantharajuc](https://twitter.com/anantharajuc) - arcswdev@gmail.com
+
+Project Link: [https://github.com/AnanthaRajuC/StopApp](https://github.com/AnanthaRajuC/StopApp)
